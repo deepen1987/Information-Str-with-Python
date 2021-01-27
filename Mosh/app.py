@@ -1,7 +1,15 @@
-name = input('What is your name? ')
+import math
 
-print("Hi " + name)
+house_price = 1000000
 
-fav_color = input('What is your favorite color? ')
+credit_score = input('What is your creditr score? ')
 
-print("Your favorite color is " + fav_color)
+if int(credit_score) > 750:
+    down_payment = house_price * 0.1
+else:
+    down_payment = house_price * 0.2
+
+print(f'Your Down payment amount is ${down_payment}')
+
+math.
+        
