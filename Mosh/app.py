@@ -158,3 +158,72 @@
 # By default all function in python returns none
 # Positional argument and Keyword argument
 
+# def emoji_converter(message):
+#     words = message.split(' ')
+#     emojis = {
+#         ':)': '😊😊😊',
+#         ':(': '😒😒😒'
+#     }
+#
+#     output = ''
+#     for word in words:
+#         output += emojis.get(word, word) + ' '
+#     return output
+
+# Calculator
+# def multiply(num1, num2):
+#     return num1 * num2
+#
+#
+# def divide(num1, num2):
+#     return num1 / num2
+#
+#
+# def subtract(num1, num2):
+#     return num1 - num2
+#
+#
+# def addition(num1, num2):
+#     return num1 + num2
+#
+#
+# def menu():
+#     print("""
+# Select one of the below function using function no. for calculation
+# 1.Addition
+# 2.Subtraction
+# 3.Division
+# 4.Multiplication
+# 5.Quit
+#     """)
+#
+#
+# output = 0
+# while True:
+#     menu()
+#     input_function = input('> ')
+#     if input_function == '5':
+#         break
+#     num1 = int(input('Enter First no: '))
+#     num2 = int(input('Enter second no: '))
+#
+#     if input_function == '1':
+#         output = addition(num1, num2)
+#         print(f'Result: {output}')
+#     elif input_function == '2':
+#         output = subtract(num1, num2)
+#         print(f'Result: {output}')
+#     elif input_function == '3':
+#         output = divide(num1, num2)
+#         print(f'Result: {output}')
+#     elif input_function == '4':
+#         output = multiply(num1, num2)
+#         print(f'Result: {output}')
+#     else:
+#         print('Please enter correct value \n')
+
+# Exception
+# try:
+#     Your conditions
+# except which exception described here:
+#     provide details what to do in case of exception
