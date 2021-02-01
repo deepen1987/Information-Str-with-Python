@@ -227,3 +227,68 @@
 #     Your conditions
 # except which exception described here:
 #     provide details what to do in case of exception
+
+
+# Class
+# class Point:
+#     def draw(self):
+#         print('draw')
+#
+#     def move(self):
+#         print('move')
+#
+#
+# point1 = Point()
+#
+# point1.draw()
+# point1.move()
+#
+# point1.x = 10
+# point1.y = 20
+#
+# print(point1.x)
+
+# class Person:
+#     def __init__(self, name):
+#         self.name = name
+#
+#     def talk(self):
+#         print(f'Hi, I am {self.name}')
+#
+#
+# person1 = Person('Deependrasingh')
+# person1.talk()
+
+# Inheritance
+# class Mammal:
+#     def walk(self):
+#         print('walk')
+#
+#
+# class Dog(Mammal):
+#     pass
+#
+#
+# class Cat(Mammal):
+#     pass
+#
+#
+# cat1 = Cat()
+# cat1.walk()
+
+import utils
+
+print("""
+1. Enter No
+2. Find Max
+3. Quit
+""")
+
+while True:
+    func_sel = input('Please select one of the function ')
+    if func_sel == '1':
+        utils.list_insert(int(input('>')))
+    elif func_sel == '2':
+        utils.find_max()
+    elif func_sel == '3':
+        break
