@@ -276,19 +276,26 @@
 # cat1 = Cat()
 # cat1.walk()
 
-import utils
+# import utils
+#
+# print("""
+# 1. Enter No
+# 2. Find Max
+# 3. Quit
+# """)
+#
+# while True:
+#     func_sel = input('Please select one of the function ')
+#     if func_sel == '1':
+#         utils.list_insert(int(input('>')))
+#     elif func_sel == '2':
+#         utils.find_max()
+#     elif func_sel == '3':
+#         break
 
-print("""
-1. Enter No
-2. Find Max
-3. Quit
-""")
-
-while True:
-    func_sel = input('Please select one of the function ')
-    if func_sel == '1':
-        utils.list_insert(int(input('>')))
-    elif func_sel == '2':
-        utils.find_max()
-    elif func_sel == '3':
-        break
+count = 0
+for numbers in range(1, 10):
+    if numbers % 2 == 0:
+        print(numbers)
+        count += 1
+print(count)
