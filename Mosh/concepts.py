@@ -292,10 +292,23 @@
 #         utils.find_max()
 #     elif func_sel == '3':
 #         break
+#
+# count = 0
+# for numbers in range(1, 10):
+#     if numbers % 2 == 0:
+#         print(numbers)
+#         count += 1
+# print(count)
 
-count = 0
-for numbers in range(1, 10):
-    if numbers % 2 == 0:
-        print(numbers)
-        count += 1
-print(count)
+
+# *Argument in a method
+#
+# def multiply(*numbers):
+#     total = 1
+#     for num in numbers:
+#         total *= num
+#     return total
+#
+#
+# print(multiply(1, 8, 17, 3))
+
