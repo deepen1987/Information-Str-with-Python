@@ -312,3 +312,5 @@
 #
 # print(multiply(1, 8, 17, 3))
 
+a = int(2.5)
+print(a)
