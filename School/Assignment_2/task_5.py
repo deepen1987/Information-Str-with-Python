@@ -24,22 +24,22 @@ def area_of_triangle(side, side1, side2, side3):
 
 
 # Co-ordinates for Atlanta
-a1, a2 = -84.5545400, 33.7405800
+a1, a2 = 33.7405800, -84.5545400
 a1 = math.radians(a1)
 a2 = math.radians(a2)
 
 # Co-ordinates for Orlando
-o1, o2 = -81.5250400, 28.4115300
+o1, o2 = 28.4115300, -81.5250400
 o1 = math.radians(o1)
 o2 = math.radians(o2)
 
 # Co-ordinates for Savannah
-s1, s2 = -81.1998900, 32.1672300
+s1, s2 = 32.1672300, -81.1998900
 s1 = math.radians(s1)
 s2 = math.radians(s2)
 
 # Co-ordinates for Charlotte
-c1, c2 = -80.9567600, 35.2072400
+c1, c2 = 35.2072400, -80.9567600
 c1 = math.radians(c1)
 c2 = math.radians(c2)
 
