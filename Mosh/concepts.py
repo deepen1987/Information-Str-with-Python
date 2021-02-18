@@ -302,15 +302,14 @@
 
 
 # *Argument in a method
-#
+
 # def multiply(*numbers):
 #     total = 1
+#     print(numbers)
 #     for num in numbers:
 #         total *= num
 #     return total
-#
-#
-# print(multiply(1, 8, 17, 3))
+# print(type(multiply(1, 8, 17, 3)))
 
-a = int(2.5)
-print(a)
+# a = int(2.5)
+# print(a)
