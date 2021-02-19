@@ -12,7 +12,7 @@ print(prices2)
 
 # list comprehension
 
-prices3 = [item[1] for item in items]
+prices3 = [item[1] > 10 for item in items]
 print(prices3)
 
 i = [1, 2]

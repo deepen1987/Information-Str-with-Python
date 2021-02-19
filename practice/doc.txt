@@ -1,0 +1,4 @@
+Key Points always to remember - 
+	Don't repeat yourself - Have a code with as less of repetition as possible.
+	Always write a pseudo code before writing a program.
+Think of multiple solution for solving a problem.
