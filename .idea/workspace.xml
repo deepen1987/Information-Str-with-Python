@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mosh/repeatedchar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mosh/turtlePractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/deep.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mosh/listTuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mosh/listTuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pratice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pratice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pratice">
+  <component name="RunManager" selected="Python.task_4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PyCharmLearningProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listTuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mosh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mosh/listTuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pratice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/pratice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeatedchar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mosh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mosh/repeatedchar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtlePractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mosh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\shekhd2\Documents\GitHub\Information-Str-with-Python\Mosh\turtlePractice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +241,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.array" />
-      <item itemvalue="Python.listTuples" />
-      <item itemvalue="Python.repeatedchar" />
-      <item itemvalue="Python.turtlePractice" />
-      <item itemvalue="Python.pratice" />
+      <item itemvalue="Python.task_2" />
+      <item itemvalue="Python.task_3" />
+      <item itemvalue="Python.task_4" />
+      <item itemvalue="Python.task_5" />
+      <item itemvalue="Python.task_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pratice" />
-        <item itemvalue="Python.turtlePractice" />
-        <item itemvalue="Python.repeatedchar" />
-        <item itemvalue="Python.array" />
-        <item itemvalue="Python.listTuples" />
+        <item itemvalue="Python.task_4" />
+        <item itemvalue="Python.task_2" />
+        <item itemvalue="Python.task_3" />
+        <item itemvalue="Python.task_6" />
+        <item itemvalue="Python.task_5" />
       </list>
     </recent_temporary>
   </component>
