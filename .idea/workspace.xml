@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/deep.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_3/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
