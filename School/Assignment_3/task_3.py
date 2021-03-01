@@ -1,6 +1,6 @@
 # CS521 - A2
 # Deependrasingh Shekhawat
-# Script for counting positive and negative numbers
+# Script for counting positive and negative numbers and average of numbers
 
 count = 0
 number_of_positive = 0

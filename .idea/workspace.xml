@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="" />
+    <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Assignment_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/School/Assignment_3/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School/Assignment_3/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/School/Assignment_3/task_5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task_4">
+  <component name="RunManager" selected="Python.task_6">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PyCharmLearningProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_3/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,19 +236,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.task_2" />
       <item itemvalue="Python.task_3" />
       <item itemvalue="Python.task_4" />
       <item itemvalue="Python.task_5" />
+      <item itemvalue="Python.task_1" />
       <item itemvalue="Python.task_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_4" />
-        <item itemvalue="Python.task_2" />
-        <item itemvalue="Python.task_3" />
         <item itemvalue="Python.task_6" />
+        <item itemvalue="Python.task_1" />
         <item itemvalue="Python.task_5" />
+        <item itemvalue="Python.task_4" />
+        <item itemvalue="Python.task_3" />
       </list>
     </recent_temporary>
   </component>
