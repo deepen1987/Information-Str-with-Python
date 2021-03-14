@@ -313,3 +313,14 @@
 
 # a = int(2.5)
 # print(a)
+
+dictA = {"a": 3, "b": 2, "c": 7, "d": 4}
+a = 0
+
+dictA.get()
+
+for key, value in dictA.items():
+    if value > a:
+        a = value
+        x = key
+print(x)
