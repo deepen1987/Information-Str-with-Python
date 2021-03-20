@@ -2,8 +2,8 @@
 # Deependrasingh Shekhawat
 # Script for Count Integers
 
-integerAll = list(
-    map(int, input("Enter integer between 1 and 100: ").split(" ")))
+integerAll = sorted(list(
+    map(int, input("Enter integer between 1 and 100: ").split(" "))))
 
 countDir = {}
 

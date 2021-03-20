@@ -7,7 +7,10 @@ def sumColumn(m, columnIndex):
         total = 0
         for j in range(3):
             total += m[j][i]
-        print(f"Sum of the elements for column {i} is {total}")
+        if total % 1 == 0:
+            print(f"Sum of the elements for column {i} is {int(total)}")
+        else:
+            print(f"Sum of the elements for column {i} is {total}")
 
 
 user = input(
@@ -17,7 +20,7 @@ if user == "y":
     matrix3x4 = []
     for i in range(3):
         matrix3x4.append(list(
-            map(int, input(f"Enter a 3-by-4 matrix row for row {i}: ").split(" "))))
+            map(float, input(f"Enter a 3-by-4 matrix row for row {i}: ").split(" "))))
 else:
     matrix3x4 = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
 
