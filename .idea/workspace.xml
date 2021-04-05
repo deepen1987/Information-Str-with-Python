@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day11-2DArr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day12-Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day13AbsClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day14Scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPath/EnDe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Project/EnryptionDecryption/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day15LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +44,8 @@
       <recent name="C:\Users\shekhd2\Documents\GitHub\Information-Str-with-Python\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day14Scope">
-    <configuration name="Day11-2DArr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.quiz">
+    <configuration name="Day15LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\shekhd2\Documents\GitHub\Information-Str-with-Python\practice\hackerrank\30Day\Day11-2DArr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/Day15LinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day12-Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EnDe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,53 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/hackerrank/30Day" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningPath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/Day12-Inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day13AbsClass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Information-Str-with-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/hackerrank/30Day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/Day13AbsClass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day14Scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Information-Str-with-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/hackerrank/30Day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/Day14Scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningPath/EnDe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +116,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/hackerrank/30Day" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Project/EnryptionDecryption" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/py.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Project/EnryptionDecryption/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Information-Str-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/quiz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtlePractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Information-Str-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningPath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningPath/turtlePractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,19 +247,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day11-2DArr" />
-      <item itemvalue="Python.Day12-Inheritance" />
-      <item itemvalue="Python.Day13AbsClass" />
-      <item itemvalue="Python.Day14Scope" />
-      <item itemvalue="Python.py" />
+      <item itemvalue="Python.EnDe" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.turtlePractice" />
+      <item itemvalue="Python.Day15LinkedList" />
+      <item itemvalue="Python.quiz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day14Scope" />
-        <item itemvalue="Python.Day13AbsClass" />
-        <item itemvalue="Python.py" />
-        <item itemvalue="Python.Day12-Inheritance" />
-        <item itemvalue="Python.Day11-2DArr" />
+        <item itemvalue="Python.quiz" />
+        <item itemvalue="Python.Day15LinkedList" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.EnDe" />
+        <item itemvalue="Python.turtlePractice" />
       </list>
     </recent_temporary>
   </component>

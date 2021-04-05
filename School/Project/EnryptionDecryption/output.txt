@@ -1,0 +1,19 @@
+CS-521 Project Guidelines
+
+One of the requirements for CS-521 is the final project (20% of the grade). Students can work in groups of two. The project is due on the last day and all projects will be presented on the last day of class. For the online class, you will have to record your (3-to-5 minutes) presentation of your results. For the on-campus class, you will have to present 3-5 minutes in person. All presentations will be done on the last day of class.
+In addition to presentations, you will send us the following:
+(1)	 one-to-two page summary of what you have done and what were the main results
+(2)	 source file(s)
+(3)	 instructions how to run your code
+Some of you are doing projects related to your work we may not be able to run your code. In this case, send us examples of runs with your summary. The presentations should be at the level that other students can understand what your project is all about. Imagine that you are have an interview and you are asked to describe in a few words a Python project of your choice.
+You are free to choose any topic that is of interest to you. The most important thing to keep in mind that this is a Python project. You will not be judged on the originality of your topic or the difficulty of implementation. We want you to show us the use of Python constructs. At the minimum, your code should include:
+(1)	 at least one of the container types (list, tuple, set, or dictionary)
+(2)	 at least one iteration type (for, while)
+(3)	 at least one conditional
+(4)	 at least one user-defined function
+(5)	 at least one user-defined class (could be very simple)
+(6)	 file input or output
+We asked you to send us your 1-2 sentence proposals so that we could assess if your project may be too difficult. If you are interested in more advanced Python projects, we can discuss it separately after you finish this class.
+Finally, your project should contain no confidential data from your employer or any non-public source.
+Good luck to all of you. 
+EP
