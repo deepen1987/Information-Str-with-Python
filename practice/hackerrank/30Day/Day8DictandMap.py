@@ -1,9 +1,10 @@
 n = int(input())
 
-phonebook = {}
+arr = []
 for i in range(n):
-    key, value = input().split(" ")
-    phonebook[key] = int(value)
+    arr.append(tuple(input().split(" ")))
+
+phonebook = dict(map(lambda x: x, arr))
 
 while True:
     try:

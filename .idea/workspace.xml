@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningPath/EnDe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Project/EnryptionDecryption/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day15LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day16Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day17MoreException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day18QueueStack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/hackerrank/30Day/Day8DictandMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day8DictandMap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,49 +48,7 @@
       <recent name="C:\Users\shekhd2\Documents\GitHub\Information-Str-with-Python\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quiz">
-    <configuration name="Day15LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Information-Str-with-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/hackerrank/30Day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/hackerrank/30Day/Day15LinkedList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EnDe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Information-Str-with-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningPath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningPath/EnDe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.task6">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PyCharmLearningProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Project/EnryptionDecryption" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Project/EnryptionDecryption/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_6/task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/quiz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_6/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtlePractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Information-Str-with-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +120,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningPath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningPath/turtlePractice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_6/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Information-Str-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_6/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Information-Str-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/School/Assignment_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/School/Assignment_6/task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +251,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.EnDe" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.turtlePractice" />
-      <item itemvalue="Python.Day15LinkedList" />
-      <item itemvalue="Python.quiz" />
+      <item itemvalue="Python.task2" />
+      <item itemvalue="Python.task3" />
+      <item itemvalue="Python.task4" />
+      <item itemvalue="Python.task5" />
+      <item itemvalue="Python.task6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quiz" />
-        <item itemvalue="Python.Day15LinkedList" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.EnDe" />
-        <item itemvalue="Python.turtlePractice" />
+        <item itemvalue="Python.task6" />
+        <item itemvalue="Python.task5" />
+        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task3" />
+        <item itemvalue="Python.task2" />
       </list>
     </recent_temporary>
   </component>
