@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d52111-1312-49cf-94c0-59f93df3f5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School/Assignment_6/task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day16Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day17MoreException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day18QueueStack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningPath/DataStructure_py/LinkedList/node.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/hackerrank/30Day/Day8DictandMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/hackerrank/30Day/Day8DictandMap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
