@@ -22,7 +22,11 @@ class Crypto:
         array_message = msg.split("@")
 
         for i in array_message:
-            new_message += chr(int(i) >> self.passcode)
+            if i.isdigit():
+                new_message += chr(int(i) >> self.passcode)
+            else:
+                print("No Encryption found for the message please enter a valid message to be decrypted.")
+                return None
         return new_message
 
 
@@ -54,7 +58,11 @@ def menu(user_input):
                         f.write(message)
                         f_name = False
                 else:
-                    print(f"File {file_name} does not exist")
+                    if file_name_verify(file_name):
+                        with open(file_name, 'w') as f:
+                            f.write("")
+                            f.write(message)
+                            f_name = False
 
     if user_input == 2:
 
@@ -78,13 +86,19 @@ def menu(user_input):
                         f.write(file)
                         f_name = False
                 else:
-                    print(f"File {file_name} does not exist")
+                    if file_name_verify(file_name):
+                        with open(file_name, 'w') as f:
+                            f.write("")
+                            f.write(file)
+                            f_name = False
 
     if user_input == 3:
+        f_name = False
         message = input("Please enter a message to be decrypted: ")
         message = encrypt_decrypt.decrypt(message)
+        if message:
+            f_name = True
 
-        f_name = True
         while f_name:
             file_name = input("Enter a filename to save the message: ")
             if file_name_verify(file_name):
@@ -94,7 +108,11 @@ def menu(user_input):
                         f.write(message)
                         f_name = False
                 else:
-                    print(f"File {file_name} does not exist")
+                    if file_name_verify(file_name):
+                        with open(file_name, 'w') as f:
+                            f.write("")
+                            f.write(message)
+                            f_name = False
 
     if user_input == 4:
 
@@ -110,7 +128,7 @@ def menu(user_input):
 
         f_name = True
         while f_name:
-            file_name = input("Enter a filename to save the encrypted file: ")
+            file_name = input("Enter a filename to save the decrypted file: ")
             if file_name_verify(file_name):
                 if os.path.isfile(file_name):
                     with open(file_name, 'w') as f:
@@ -118,7 +136,11 @@ def menu(user_input):
                         f.write(file)
                         f_name = False
                 else:
-                    print(f"File {file_name} does not exist")
+                    if file_name_verify(file_name):
+                        with open(file_name, 'w') as f:
+                            f.write("")
+                            f.write(file)
+                            f_name = False
 
 
 inputVerify = True
