@@ -25,7 +25,8 @@ class Crypto:
             if i.isdigit():
                 new_message += chr(int(i) >> self.passcode)
             else:
-                print("No Encryption found for the message please enter a valid message to be decrypted.")
+                print(
+                    "No Encryption found for the message or file please enter a valid message or file to be decrypted.")
                 return None
         return new_message
 
@@ -125,8 +126,9 @@ def menu(user_input):
                         file = f.read()
                         f_name = False
         file = encrypt_decrypt.decrypt(file)
+        if file:
+            f_name = True
 
-        f_name = True
         while f_name:
             file_name = input("Enter a filename to save the decrypted file: ")
             if file_name_verify(file_name):
