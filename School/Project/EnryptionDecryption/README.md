@@ -24,3 +24,8 @@ Description - The project is about the encryption or decryption of a message or 
 
 ### Technology
 * Python 3.9
+
+### Instructions to run the program:  
+  1. Download the project folder.  
+  2. Using the cmd prompt, go to project directory.  
+  3. Run python crypto.py 
