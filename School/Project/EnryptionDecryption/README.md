@@ -1,4 +1,4 @@
-# Implementation of Encryption and Decryption Algorithm 
+# Implementation of Encryption and Decryption of data using Synchronous cryptography. 
 
 *The Project has 5 options.*
 
@@ -6,15 +6,19 @@
 * Encrypt a Message.
   * Enter a key to encrypt message.
   * Enter the message to be encrypted.
-  * Provide the file name to save the encrypted name.
-    * The program looks for an existing file. The program won't create a file.
+  * Provide the file name to save the encrypted data.
 * Encrypt a File.
-  * The page has 6 section for workout and using embedded YouTube videos for it.
+  * Enter a key to encrypt message.
+  * Enter the file name to encrypt
+  * Provide the file name to save the encrypted data.
 * Decrypt a Message. 
-  * BMI Calculator
-    * This has 2 measuring system and calculates BMI based on height and weight.
-    * It has a small table for referencing BMI's
+  * Enter a key to decrypt message. The should be same as the one used to encrypt it.
+  * Enter the message to be decrypted.
+  * Provide the file name to save the decrypted data.
 * Decrypt a File.
+  * Enter a key to decrypt message. The should be same as the one used to encrypt it.
+  * Enter the file name which has encrypted data.
+  * Provide the file name to save the decrypted data.
 * Exit
 
 ### Technology
