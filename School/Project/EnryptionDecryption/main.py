@@ -126,16 +126,20 @@ userInput = ""
 key = ""
 
 while inputVerify:
-    print("Only .txt file type or a plain message are supported. Please be mindful...")
+    print("\nOnly .txt file type or a plain message are supported. Please be mindful...")
     userInput = input("""Please select one of the following menu options:
     1. Encrypt a Message
     2. Encrypt a File
     3. Decrypt a Message
     4. Decrypt a File
+    5: Exit
+    Make Your selection: 
     """)
 
     if userInput.isdigit():
         userInput = int(userInput)
-        if userInput == 1 or userInput == 2 or userInput == 3 or userInput == 4:
+        if userInput in [1, 2, 3, 4]:
             menu(userInput)
+            print("Process Complete.")
+        if userInput == 5:
             inputVerify = False
