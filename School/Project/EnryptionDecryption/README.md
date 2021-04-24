@@ -1,4 +1,5 @@
 # Implementation of Encryption and Decryption of data using Synchronous cryptography. 
+Description - The project does the encryption or decryption of a message or a file using a 8 alpha numeric character key. I have implemented the concept of Synchronous cryptography using bit wise manipulation of data. The program takes in a message or a file based on key does bit wise manipulation to transform the data in non human readable for form for encrpyting the data. To decrypt the message or the file user needs to provide the same key which was used to encrypt them. This way only those user can decrypt the data who have the key.
 
 *The Project has 5 options.*
 
